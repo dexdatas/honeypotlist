@@ -1,5 +1,5 @@
 # honeypotlist.dexdatas.com
-honeypot list（貔貅盘列表）
+honeypot list（貔貅盘列表，可以通过 issues 更新）
 
 | Token Name | BlockChain | Release Date   | Token Swap Market | Contract Address          | Victims List        | Amount     |
 |------------|--------------|-----------------|----------------| ---------------------------|---------------------|------------|
